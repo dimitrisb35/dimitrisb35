@@ -1,8 +1,9 @@
-## Hi there 👋
+### Hi there  👋
+
+
 ---
 
-
-### 💻 About Me
+## 💻 About Me
 
 🚀 **Cloud-Native Architectures:** I design and guide the implementation of cloud-native architectures using **Kubernetes**, **OpenShift**, and service meshes for scalable and observable containerized deployments.  
 
@@ -12,7 +13,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <p align="center">
   <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="45" height="45"/>
