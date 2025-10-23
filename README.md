@@ -29,6 +29,8 @@
   <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" width="45" height="45"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <!-- LangChain -->
+  <img src="https://cdn.simpleicons.org/langchain/43A047" alt="LangChain" width="55" height="55"/>
   <!-- Node.js -->
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
   <!-- Next.js -->
