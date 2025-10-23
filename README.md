@@ -46,7 +46,7 @@
   <!-- Argo CD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" width="45" height="45"/>
   <!-- Tekton -->
-  <img src="https://raw.githubusercontent.com/cdfoundation/artwork/main/tekton/horizontal/color/tekton-horizontal-color.svg" alt="Tekton logo" width="110"/>
+  <img src="https://raw.githubusercontent.com/cdfoundation/artwork/main/tekton/horizontal/color/tekton-horizontal-color.svg" alt="Tekton logo" width="100"/>
 </p>
 
 ---
