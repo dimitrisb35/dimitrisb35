@@ -13,7 +13,7 @@
 
 ---
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 <p align="center">
   <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="45" height="45"/>
