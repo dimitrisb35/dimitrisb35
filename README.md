@@ -28,7 +28,7 @@
   <!-- OpenShift -->
   <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" width="45" height="45"/>
   <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
   <!-- LangChain -->
   <img src="https://cdn.simpleicons.org/langchain/43A047" alt="LangChain" width="55" height="55"/>
   <!-- Node.js -->
