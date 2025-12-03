@@ -29,14 +29,16 @@
   <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" width="45" height="45"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
+  <!-- Microsoft AI Foundry (Azure AI Studio) -->
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/azureai-color.svg" alt="AzureAI Logo" width="45" height="45"/>
+  <!-- LangChain -->
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" alt="LangChain" width="65" height="75"/>
+  <!-- Google Vertex AI -->
+  <img src="https://www.svgrepo.com/show/375510/vertexai.svg" alt="Google Vertex AI" width="45" height="45"/>
   <!-- Node.js -->
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <!-- Azure DevOps -->
