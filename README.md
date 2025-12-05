@@ -11,6 +11,8 @@
 
 ⚙️ **CI/CD & DevOps:** I define **CI/CD architectures** and DevOps strategies using **Azure DevOps**, **Argo CD**, and **Tekton**, automating workflows and managing multi-cloud environments including **AWS**, **Google Cloud**, and **Azure**.
 
+🤖 **Agentic AI** : I design agent-driven AI solutions using LangChain, Azure AI Foundry, and modern orchestration frameworks, building tool-calling systems that integrate seamlessly with cloud platforms.
+
 ---
 
 ### 🧰 Technologies & Platforms
