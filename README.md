@@ -32,7 +32,7 @@
   <!-- Microsoft AI Foundry (Azure AI Studio) -->
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/azureai-color.svg" alt="AzureAI Logo" width="45" height="45"/>
   <!-- LangChain -->
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" alt="LangChain Icon" width="60" height="60"/>
+  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2322c55e" alt="Green LangChain Icon" width="70" height="55"/>
   <!-- Google Vertex AI -->
   <img src="https://www.svgrepo.com/show/375510/vertexai.svg" alt="Google Vertex AI" width="45" height="45"/>
   <!-- Node.js -->
