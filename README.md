@@ -40,7 +40,7 @@
    <!-- python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <!-- Node.js -->
-  <!--<img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
   <!-- FastAPI -->
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/> 
   <!-- GitHub -->
