@@ -37,10 +37,12 @@
   <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2322c55e" alt="Green LangChain Icon" width="70" height="55"/>
   <!-- Google Vertex AI -->
   <img src="https://www.svgrepo.com/show/375510/vertexai.svg" alt="Google Vertex AI" width="45" height="45"/>
+   <!-- python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <!-- Node.js -->
-  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
+  <!--<img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
   <!-- FastAPI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/> 
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <!-- Azure DevOps -->
