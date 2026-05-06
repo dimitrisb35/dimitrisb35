@@ -19,10 +19,13 @@
 <p align="center">
   <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="45" height="45"/>
+  
   <!-- Google Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="45" height="45"/>
+  
  <!-- AWS -->
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="55" height="55"/>
+  
   <!-- Terraform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
   <!-- Kubernetes -->
@@ -37,18 +40,15 @@
   <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2322c55e" alt="Green LangChain Icon" width="70" height="55"/>
   <!-- Google Vertex AI -->
   <img src="https://www.svgrepo.com/show/375510/vertexai.svg" alt="Google Vertex AI" width="45" height="45"/>
-   <!-- python -->
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <!-- python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <!-- Node.js -->
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
-  <!-- FastAPI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/> 
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="45" height="45"/>
-  <!-- Argo CD -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" width="45" height="45"/>
+  
 </p>
 
 ---
